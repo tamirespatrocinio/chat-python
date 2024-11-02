@@ -18,6 +18,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#video_camera-demo">Demo</a> &#xa0; | &#xa0;
+  <a href="#handshake-contributing">Contributing</a> &#xa0; | &#xa0;
   <a href="https://github.com/tamirespatrocinio" target="_blank">Author</a>
 </p>
 
@@ -67,6 +68,16 @@ $ python main.py
 Watch the demo of the chat in action below:
 
 [https://user-images.githubusercontent.com/tamirespatrocinio/video-link.mp4](https://github.com/user-attachments/assets/760bc595-12f9-4e76-ad2c-51f66c4a494f)
+
+## :handshake: Contributing
+
+Contributions are welcome! To contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature/your-feature.
+3. Make your changes and commit them: git commit -m 'Add your feature'.
+4. Push to the branch: git push origin feature/your-feature.
+   Open a pull request.
 
 &#xa0;
 
